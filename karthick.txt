@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Hello Good Morning
+=======
+git add
+git config
+
+git --version
+
+>>>>>>> 6e26a850c0a6a9c367214c57af85f03367883fc0
