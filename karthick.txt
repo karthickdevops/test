@@ -1,11 +1,21 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is Antony Richard
 =======
+=======
+
+Hello Good Morning
+
+>>>>>>> b24050ae7e29211bfe07b582b6ef02da982c9796
 git add
 git config
 
 git --version
 
+<<<<<<< HEAD
 >>>>>>> 6e26a850c0a6a9c367214c57af85f03367883fc0
 
 sdfkdk
+=======
+
+>>>>>>> b24050ae7e29211bfe07b582b6ef02da982c9796
